@@ -588,6 +588,11 @@ p {
     --font-micro: 12px;
     }
 
+#home {
+     background : url('./imgs/home-background-s.png') center/cover no-repeat;
+     text-align: center;
+    }
+
  .navbar__toggle-btn {
     display: block;
     border-radius: var(--size-border-radius);
