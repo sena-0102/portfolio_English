@@ -152,6 +152,7 @@ p {
     border: none;
     outline: none;
     font-family: 'Gaegu', cursive;
+    color: var(--color-white);
 }
 
 .navbar__toggle-btn {
